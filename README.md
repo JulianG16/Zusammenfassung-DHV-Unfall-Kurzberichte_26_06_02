@@ -7,6 +7,7 @@ Disclaimer:
 * Die folgende Zusammenfassung ist KI generiert und muss mit Vorsicht gelesen werden
 * KI kann halluzinieren
 * Bias der Daten: Nur ein Teill aller Unfälle werden gemeldet. Der DHV hat nur einen ausgewählten Teil der Unfälle publiziert.
+* Bias der Daten: Die Unfälle beschränken sich auf die Jahre 2025 & 2026 und sind nur eine kleine Stichprobe.
 * Tatsächlicher Vorfall vs Wahrnehmung des Piloten/der Pilotin und Interpretation/Erklärung durch weitere Personen
 
 ------------------------------------------------------------------------------------------------------------------
