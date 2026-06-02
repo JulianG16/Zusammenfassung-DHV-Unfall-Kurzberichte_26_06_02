@@ -7,7 +7,7 @@ Disclaimer:
 * Die folgende Zusammenfassung ist KI generiert und muss mit Vorsicht gelesen werden
 * KI kann halluzinieren
 * Bias der Daten: Diese Unfälle wurden gemeldet und sind nur ein Teil aller Unfälle
-* Tatsächlicher Vorfall vs Wahrnehmung des Pilten/der Piloten und INterpretation/Erklärung durch weitere Personen
+* Tatsächlicher Vorfall vs Wahrnehmung des Piloten/der Pilotin und Interpretation/Erklärung durch weitere Personen
 
 ------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------
