@@ -1,4 +1,4 @@
-# Zusammenfassung-DHV-Unfall-Kurzberichte_26_06_02
+# Zusammenfassung DHV Unfall Kurzberichte
 KI generierte Zusammenfassung der DHV-Unfall-Kurzberichte Stand 02.06.26
 
 49 Berichte wurden von https://www.dhv.de/sicherheit/unfaelle/kurzberichte/ extrahiert.
@@ -6,7 +6,7 @@ KI generierte Zusammenfassung der DHV-Unfall-Kurzberichte Stand 02.06.26
 Disclaimer:
 * Die folgende Zusammenfassung ist KI generiert und muss mit Vorsicht gelesen werden
 * KI kann halluzinieren
-* Bias der Daten: Diese Unfälle wurden gemeldet und sind nur ein Teil aller Unfälle
+* Bias der Daten: Nur ein Teill aller Unfälle werden gemeldet. Der DHV hat nur einen ausgewählten Teil der Unfälle publiziert.
 * Tatsächlicher Vorfall vs Wahrnehmung des Piloten/der Pilotin und Interpretation/Erklärung durch weitere Personen
 
 ------------------------------------------------------------------------------------------------------------------
